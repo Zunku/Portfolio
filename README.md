@@ -18,9 +18,9 @@ Performed EDA and feature engineering to train a Random Forest Classifier predic
 ![Most Paying Jobs](assets/AI-jobs.png)
 
 ### EDA & Feature Engineering – Video Game Sales
-[Link](https://github.com/Zunku/Global-AI-Job-Market)
+[Link](https://github.com/Zunku/Videogames-Sales)
 
 Performed exploratory data analysis on global video game sales, identifying trends across genres, platforms, and release years. Engineered key features to improve predictive modeling. Insights revealed market shifts over time, top-performing franchises, and genre-specific sales behaviors. Optimized the dataset for use in machine learning pipelines.
 
-![Most Paying Jobs](assets/AI-jobs.png)
+![Best Selling Genre](assets/Best-selling-genre.png)
 
