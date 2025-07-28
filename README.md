@@ -11,11 +11,11 @@ Conducted an in-depth exploratory analysis of the AI job market using real-world
 ![Most Paying Jobs](assets/AI-jobs.png)
 
 ### Machine Learning Explainability - Phone Price Classifier
-[Link](https://github.com/Zunku/Global-AI-Job-Market)
+[Link](https://github.com/Zunku/Phone-Price-Classifier)
 
 Performed EDA and feature engineering to train a Random Forest Classifier predicting mobile phone price ranges. The project focused on model explainability, using visual tools and feature importance to clearly communicate how the model makes decisions — even to non-technical audiences.
 
-![Most Paying Jobs](assets/AI-jobs.png)
+![Mi Scores Phones](assets/Mi-Scores-Phones.png)
 
 ### EDA & Feature Engineering – Video Game Sales
 [Link](https://github.com/Zunku/Videogames-Sales)
