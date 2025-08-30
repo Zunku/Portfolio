@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Machine Learning, Matlab, Pandas, Scikit-Learn, Feature Engineering, Deep Learning, Data Analysis, Statistics
 
 ## Projects
-### Boxing Matches Outcome Predictor
+### Boxing Matches Winner Predictor
 [Link](https://github.com/Zunku/Boxing-Matches-Outcome-Predictions)
 
 Developed a predictive analytics model to forecast boxing match outcomes using historical fight data, fighter statistics, and advanced machine learning algorithms. Designed an end-to-end pipeline for automation and integrated machine learning explainability techniques, delivering actionable insights to support strategic decision-making for promoters, bettors, and sports analysts, minimizing financial risk and maximizing engagement.
