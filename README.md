@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Machine Learning, Matlab, Pandas, Scikit-Learn, Feature Engineering, Deep Learning, Data Analysis, Statistics
+#### Technical Skills: Python, SQL, Machine Learning, Cloud, Azure Machine Learning, Docker, Git, Matlab, Pandas, Scikit-Learn, Feature Engineering, Deep Learning, Data Analysis, Statistics
 
 ## Projects
 ### Boxing Matches Winner Predictor
