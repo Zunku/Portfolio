@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Machine Learning, Cloud, Azure Machine Learning, Docker, Git, Matlab, Pandas, Scikit-Learn, Feature Engineering, Deep Learning, Data Analysis, Statistics
 
 ## Projects
-###
+### SentimentScope - Sentiment Classifier
 [Link](https://github.com/Zunku/sentiment-scope)
 
 SentimentScope is an end-to-end sentiment analysis (NLP) project designed to demonstrate real-world machine learning engineering and MLOps skills. From exploratory data analysis to automated cloud retraining pipelines, this project showcases the full lifecycle of an ML system: exploration, modeling, deployment, monitoring, and scalability.
