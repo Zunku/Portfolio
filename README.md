@@ -4,7 +4,7 @@
 
 ## Projects
 ### Ecommerce Django - Django REST Backend
-[Link](https://github.com/Zunku/ecommece-django)
+[Link](https://github.com/Zunku/ecommerce-django)
 
 A production-oriented e-commerce backend built with Django REST Framework.
 It exposes a secure and scalable API for managing products, collections, carts, and orders, with role-based permissions and robust validation. The system integrates PostgreSQL for data integrity, Redis for caching, Celery for background tasks, and JWT for stateless authentication. Performance and reliability were validated using automated tests with pytest and load testing with Locust, ensuring the API behaves correctly under real-world conditions.
@@ -14,7 +14,7 @@ It exposes a secure and scalable API for managing products, collections, carts, 
 ### SentimentScope - Sentiment Classifier
 [Link](https://github.com/Zunku/sentiment-scope)
 
-SentimentScope is an end-to-end sentiment analysis (NLP) project designed to demonstrate real-world machine learning engineering and MLOps skills. From exploratory data analysis to automated cloud retraining pipelines, this project showcases the full lifecycle of an ML system: exploration, modeling, deployment, monitoring, and scalability.
+SentimentScope is a production-oriented backend service for sentiment analysis, designed to demonstrate real-world backend engineering and DevOps integration. The system exposes a scalable API that handles text ingestion, preprocessing, model inference, and result delivery with low latency and reliability. It includes background job processing for retraining and data pipelines, cloud-based deployment, and monitoring to ensure stability under load. The architecture focuses on clean separation of concerns, fault tolerance, and performance, showing how a machine learning model can be integrated into a robust, production-ready backend system.
 
 ![SentimentScope](assets/sentiment-scope.png)
 
